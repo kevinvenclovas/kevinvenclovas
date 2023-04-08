@@ -15,6 +15,7 @@ Below are some of my favorite dev tools:
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23007ACC.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white&color=0F0F0F)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=0F0F0F)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=0F0F0F)
+![GDI Business Line](https://img.shields.io/badge/GDI%20Business%20Line-%23007ACC.svg?style=for-the-badge&logoColor=white&color=0F0F0F)
 
 ### Tools
 
