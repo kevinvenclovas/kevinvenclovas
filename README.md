@@ -15,6 +15,7 @@ Below are some of my favorite dev tools:
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23007ACC.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white&color=0F0F0F)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=0F0F0F)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=0F0F0F)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&color=0F0F0F)
 ![GDI Business Line](https://img.shields.io/badge/GDI%20Business%20Line-%23007ACC.svg?style=for-the-badge&logoColor=white&color=0F0F0F)
 
 ### Tools
@@ -26,7 +27,7 @@ Below are some of my favorite dev tools:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white&color=0F0F0F)
 ![Slack](https://img.shields.io/badge/slack-0F0F0F?style=for-the-badge&logo=slack&logoColor=white&color=0F0F0F)
 ![Discord](https://img.shields.io/badge/Discord-0F0F0F?style=for-the-badge&logo=Discord&logoColor=white&color=0F0F0F)
-
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0F0F0F?style=for-the-badge&logo=openai&logoColor=white&color=0F0F0F)
 
 ### Cloud
 
