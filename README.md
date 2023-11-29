@@ -28,8 +28,7 @@
  </a> 
 </p>
 <br />
-<br />
-<br />
+
 <!-- About Section -->
  # About me
  
@@ -42,6 +41,8 @@
  💬 &emsp; Ask me about anything [here](https://github.com/kevinvenclovas/kevinvenclovas/issues)
 
 </p>
+<br/>
+<br/>
 <br/>
 
 ## Use To Code
