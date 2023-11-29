@@ -10,7 +10,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Kevin+Venclovas">「 Google Me 」</a>
     <br>
-    「 I am a backend developer / sofware architect from <b>Germany</b> 」
+    「 I am a backend developer / software architect from <b>Germany</b> 」
     <br>
     <br>
   </samp>
