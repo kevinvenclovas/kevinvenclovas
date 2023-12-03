@@ -47,7 +47,7 @@
 
 ## Use To Code
 
-![C#](https://img.shields.io/badge/c%23-593D88.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black)
+![C#](https://img.shields.io/badge/c%23-593D88.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=black)
 ![.NET](https://img.shields.io/badge/.NET-5027d5.svg?style=for-the-badge&logo=.NET&logoColor=white&labelColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-e79b21.svg?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=black)
 ![Postgre](https://img.shields.io/badge/Postgre-386595.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=black)
