@@ -56,6 +56,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-44c0b2.svg?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=black)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
+![GDI Business Line](https://img.shields.io/badge/GDI_Business_Line-black?style=for-the-badge&logo=&logoColor=white&labelColor=black)
 
 <hr/>
 
