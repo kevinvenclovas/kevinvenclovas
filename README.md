@@ -47,6 +47,8 @@
 
 ## Use To Code
 
+<img alt="GDI Business Line" src="https://img.shields.io/badge/GDI_Business_Line-black?style=for-the-badge&logo=&logoColor=white&labelColor=black" height="150" />
+
 ![C#](https://img.shields.io/badge/c%23-593D88.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=black)
 ![.NET](https://img.shields.io/badge/.NET-5027d5.svg?style=for-the-badge&logo=.NET&logoColor=white&labelColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-e79b21.svg?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=black)
@@ -56,7 +58,6 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-44c0b2.svg?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=black)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
-![GDI Business Line](https://img.shields.io/badge/GDI_Business_Line-black?style=for-the-badge&logo=&logoColor=white&labelColor=black)
 
 <hr/>
 
